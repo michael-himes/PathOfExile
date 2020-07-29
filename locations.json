@@ -1,0 +1,61 @@
+{
+    "Inventory": {
+        "top_left_corner": "(2652, 810)",
+        "bottom_right_corner": "(3390, 1073)",
+        "Iterator": [
+            [
+                2652,
+                3390,
+                67
+            ],
+            [
+                810,
+                1073,
+                65
+            ]
+        ]
+    },
+    "Default": {
+        "Location": "(1792, 436)",
+        "top_left_corner": "(932, 265)",
+        "bottom_right_corner": "(1667, 1000)",
+        "Iterator": [
+            [
+                932,
+                1667,
+                66
+            ],
+            [
+                265,
+                1000,
+                66
+            ]
+        ]
+    },
+    "Currency": {
+        "Location": "(1808, 215)"
+    },
+    "Fragment": {
+        "Location": "(1806, 242)"
+    },
+    "Card": {
+        "Location": "(1815, 268)"
+    },
+    "Essence": {
+        "Location": "(1819, 299)"
+    },
+    "Map": {
+        "Location": "(1822, 324)"
+    },
+    "Tab 1": {
+        "Location": "(1798, 467)"
+    },
+    "Tab 2": {
+        "Location": "(1798, 492)"
+    },
+    "Items": {
+        "Seed": "Tab 1",
+	      "Grain": "Tab 1",
+	      "Cluster Jewel": "Tab 2"
+    }
+}
